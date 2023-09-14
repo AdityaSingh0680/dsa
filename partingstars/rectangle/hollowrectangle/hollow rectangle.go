@@ -1,4 +1,4 @@
-package hollowrectangle
+package main
 
 import "fmt"
 

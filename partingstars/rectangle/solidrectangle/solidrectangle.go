@@ -1,4 +1,4 @@
-package solidrectangle
+package main
 
 import "fmt"
 

@@ -1,4 +1,4 @@
-package diagonalrectangle
+package main
 
 import "fmt"
 
